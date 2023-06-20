@@ -1,8 +1,8 @@
-## Tugas Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2022/2023
+## Tugas 2 Pemrograman Berbasis Web Lanjutan 2022/2023
 
-## Folder Rizky Akbar Siregar
+## Folder Nita Maharani Harahap
 
-## Nim 0702202066
+## Nim 0702201114
 
 ## Sistem Informasi 4
 
