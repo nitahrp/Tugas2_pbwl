@@ -1,11 +1,11 @@
 {
-    "name": "suendri-uinsu/si-mvc",
-    "description": "Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2022",
+    "name": "nita-uinsu/tugas2",
+    "description": "Tugas 2 Pemrograman Berbasis Web Lanjutan 2023",
     "type": "project",
     "authors": [
         {
-            "name": "suendri-uinsu",
-            "email": "suendri@uinsu.ac.id"
+            "name": "nita-uinsu",
+            "email": "nitamaharani844@gmail.com"
         }
     ],
     "autoload": {
